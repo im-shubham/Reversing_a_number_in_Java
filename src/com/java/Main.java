@@ -1,9 +1,6 @@
 //Reversing a number Program in Java...
 
-
 package com.java;
-
-
 import java.util.Scanner;
 
 class Reverse{
@@ -25,7 +22,7 @@ class Reverse{
             rev=rev*10+rem;
             n=n/10;
         }
-        System.out.println("the Number After reversing is "+ rev);
+        System.out.println("The Number After reversing is "+ rev);
 
 
 
